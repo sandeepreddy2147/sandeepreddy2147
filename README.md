@@ -74,28 +74,13 @@
   <table width="100%" border="0" cellpadding="5" cellspacing="0">
     <tr>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-readme-stats-eight-gray.vercel.app/api?username=sandeepreddy2147&show_icons=true&count_private=true&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Stats" width="100%" style="max-width: 400px; border-radius: 8px;" />
-      </td>
-      <td width="50%" align="center" valign="middle">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepreddy2147&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Streak" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" valign="middle" style="padding-top: 15px;">
-        <img src="https://github-readme-stats-eight-gray.vercel.app/api/top-langs/?username=sandeepreddy2147&layout=compact&langs_count=8&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="Top Languages" width="100%" style="max-width: 400px; border-radius: 8px;" />
-      </td>
-      <td width="50%" align="center" valign="middle" style="padding-top: 15px;">
+      <td width="50%" align="center" valign="middle">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=default" alt="Profile views and summary" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
     </tr>
   </table>
-
-  <!-- Live Indicators Line -->
-  <div style="margin-top: 25px; font-family: monospace; font-size: 13px; color: #7F7F8F;">
-    <span>👤 Followers: <b><img src="https://img.shields.io/github/followers/sandeepreddy2147?style=flat-square&color=FF6B00&label=Followers&logo=github" style="vertical-align: middle;" /></b></span> &nbsp;•&nbsp;
-    <span>⭐ Total Stars: <b><img src="https://img.shields.io/badge/Total_Stars-250%2B-FF6B00?style=flat-square&logo=github" style="vertical-align: middle;" /></b></span> &nbsp;•&nbsp;
-    <span>📦 Public Repositories: <b><img src="https://img.shields.io/badge/Public_Repositories-45-FF6B00?style=flat-square&logo=github" style="vertical-align: middle;" /></b></span>
-  </div>
 </div>
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
