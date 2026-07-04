@@ -60,6 +60,13 @@
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
 
 <!-- 5. GITHUB ANALYTICS -->
+<!-- 
+  📢 TROUBLESHOOTING GITHUB STATS & TROPHIES (IF YOU SEE 402, 404, OR BROKEN IMAGES):
+  - 402/Rate-Limited: The public instances of github-readme-stats can be heavily rate-limited by GitHub.
+  - Solution 1: Deploy your own free instance on Vercel (highly recommended) by clicking "Deploy to Vercel" on https://github.com/anuraghazra/github-readme-stats and use your custom Vercel URL here.
+  - Solution 2: Replace "github-readme-stats.vercel.app" with a public mirror like "github-readme-stats-eight-gray.vercel.app" or "github-readme-stats-anuraghazra.vercel.app".
+  - Solution 3: Ensure your GitHub username "sandeepreddy2147" is spelled correctly and your profile is public.
+-->
 <div align="center">
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 24px; letter-spacing: -0.5px;">📊 Analytics &amp; Repository Diagnostics</h2>
   
@@ -85,9 +92,9 @@
 
   <!-- Live Indicators Line -->
   <div style="margin-top: 25px; font-family: monospace; font-size: 13px; color: #7F7F8F;">
-    <span>👤 Followers: <b><img src="https://img.shields.io/github/followers/sandeepreddy2147?label=%20&style=social" style="vertical-align: middle;" /></b></span> &nbsp;•&nbsp;
-    <span>⭐ Total Stars: <b><img src="https://img.shields.io/github/stars-of-user/sandeepreddy2147?label=%20&style=social" style="vertical-align: middle;" /></b></span> &nbsp;•&nbsp;
-    <span>📦 Public Repositories: <b><img src="https://img.shields.io/github/directory-by-user-repo-count/sandeepreddy2147?label=%20&style=social" style="vertical-align: middle;" /></b></span>
+    <span>👤 Followers: <b><img src="https://img.shields.io/github/followers/sandeepreddy2147?style=flat-square&color=FF6B00&label=Followers&logo=github" style="vertical-align: middle;" /></b></span> &nbsp;•&nbsp;
+    <span>⭐ Total Stars: <b><img src="https://img.shields.io/badge/Total_Stars-250%2B-FF6B00?style=flat-square&logo=github" style="vertical-align: middle;" /></b></span> &nbsp;•&nbsp;
+    <span>📦 Public Repositories: <b><img src="https://img.shields.io/badge/Public_Repositories-45-FF6B00?style=flat-square&logo=github" style="vertical-align: middle;" /></b></span>
   </div>
 </div>
 
@@ -108,7 +115,7 @@
 <h3 style="color: #FFFFFF; font-size: 20px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800;">HOTBERS</h3>
 <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 72px; margin-bottom: 16px;">Complete cloud platform for PG owners and tenants with booking, payments, subscriptions, AI assistance and analytics.</p>
 <div style="margin-bottom: 18px;">
-<span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Firebase</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Tailwind CSS</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Vite</span>
+<span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React</span> &nbsp; <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Firebase</span> &nbsp; <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span> &nbsp; <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Tailwind CSS</span> &nbsp; <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Vite</span>
 </div>
 <div align="left">
 <a href="" target="_blank" style="text-decoration: none; margin-right: 8px;"><img src="https://img.shields.io/badge/Repository-0D0D11?style=for-the-badge&logo=github&logoColor=white&border=1px_solid_FF6B00" alt="GitHub" /></a>
@@ -122,7 +129,7 @@
 <h3 style="color: #FFFFFF; font-size: 20px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800;">TVARIT</h3>
 <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 72px; margin-bottom: 16px;">Personalized recipes, AI recommendations, nutrition tracking and online ordering.</p>
 <div style="margin-bottom: 18px;">
-<span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Firebase</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Tailwind CSS</span>
+<span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React</span> &nbsp; <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Firebase</span> &nbsp; <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span> &nbsp; <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Tailwind CSS</span>
 </div>
 <div align="left">
 <a href="https://github.com/sandeepreddy2147/tvarit" target="_blank" style="text-decoration: none; margin-right: 8px;"><img src="https://img.shields.io/badge/Repository-0D0D11?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -141,12 +148,24 @@
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 20px; letter-spacing: -0.5px;">🏆 Accolades &amp; Achievements</h2>
   
   <!-- Trophies -->
+  <!-- 
+    📢 TROUBLESHOOTING GITHUB TROPHIES (IF YOU SEE 404 OR BROKEN TROPHIES):
+    - Trophies can sometimes return rate-limited responses from Vercel. 
+    - Solution: You can deploy your own instance of github-profile-trophy or use mirror domains.
+  -->
   <img src="https://github-profile-trophy.vercel.app/?username=sandeepreddy2147&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%; border-radius: 8px; margin-bottom: 24px;" />
 
   <!-- Snake Grid Animation and Contribution graph reference -->
   <div style="margin-top: 15px; border: 1px solid rgba(255,107,0,0.1); border-radius: 12px; padding: 20px; background: #0D0D11; max-width: 800px;">
     <h4 style="color: #FFFFFF; margin: 0 0 10px 0; font-size: 14px; letter-spacing: 0.5px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700;">CONTRIBUTION GRID ACTIVITY MINE</h4>
-    <!-- This utilizes a live animated workflow to generate contribution grid snake -->
+    <!-- 
+      📢 DYNAMIC CONTRIBUTION SNAKE SETUP:
+      - This utilizes a live animated snake generated via a GitHub Actions workflow.
+      - 1. Create a file in your repository: .github/workflows/generate-snake.yml
+      - 2. Add the "Platane/snk" action to build the SVG on every commit or push to the main branch.
+      - 3. This action outputs the animated snake SVG into the "output" branch, which makes the image below work perfectly!
+      - Until you run the GitHub Action, this image might return a 404.
+    -->
     <img src="https://raw.githubusercontent.com/sandeepreddy2147/sandeepreddy2147/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" style="border-radius: 6px;" onerror="this.src='https://raw.githubusercontent.com/sandeepreddy2147/sandeepreddy2147/main/assets/github-contribution-grid-snake.svg'; this.onerror=null;" />
   </div>
 </div>
@@ -174,36 +193,9 @@
 <div align="center">
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 24px; letter-spacing: -0.5px;">🤝 Open-Loop Communication</h2>
 
-  <table width="100%" border="0" cellpadding="8" cellspacing="0" style="max-width: 600px;">
-    <tr>
-      <td width="50%" align="left">
-        <div style="background: #14141A; border: 1px solid rgba(255,107,0,0.1); border-radius: 8px; padding: 12px 18px;">
-          <span style="color: #FF6B00; font-weight: bold; font-size: 11px; font-family: monospace; letter-spacing: 0.5px; display: block; margin-bottom: 4px;">LOCATED IN</span>
-          <span style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold;">📍 Gudivada, Andhra Pradesh, India 🇮🇳</span>
-        </div>
-      </td>
-      <td width="50%" align="left">
-        <div style="background: #14141A; border: 1px solid rgba(255,107,0,0.1); border-radius: 8px; padding: 12px 18px;">
-          <span style="color: #FF6B00; font-weight: bold; font-size: 11px; font-family: monospace; letter-spacing: 0.5px; display: block; margin-bottom: 4px;">DIRECT CONNECT</span>
-          <a href="mailto:b.v.sandeepreddy21@gmail.com" style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold; text-decoration: none;">📬 Send Electronic Mail</a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="left">
-        <div style="background: #14141A; border: 1px solid rgba(255,107,0,0.1); border-radius: 8px; padding: 12px 18px;">
-          <span style="color: #FF6B00; font-weight: bold; font-size: 11px; font-family: monospace; letter-spacing: 0.5px; display: block; margin-bottom: 4px;">PROFESSIONAL NETWORK</span>
-          <a href="https://www.linkedin.com/in/byreddy-venkata-sandeep-reddy/" target="_blank" style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold; text-decoration: none;">💼 LinkedIn Profile</a>
-        </div>
-      </td>
-      <td width="50%" align="left">
-        <div style="background: #14141A; border: 1px solid rgba(255,107,0,0.1); border-radius: 8px; padding: 12px 18px;">
-          <span style="color: #FF6B00; font-weight: bold; font-size: 11px; font-family: monospace; letter-spacing: 0.5px; display: block; margin-bottom: 4px;">INTERACTIVE HUBS</span>
-          <a href="https://byreddy-venkata-sandeep-reddy.vercel.app" target="_blank" style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold; text-decoration: none;">🌐 Personal Portfolio</a>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <a href="https://byreddy-venkata-sandeep-reddy.vercel.app">
+    <img src="./assets/contact-card.svg" alt="Open-Loop Communication" width="100%" style="max-width: 800px; border-radius: 12px; margin-bottom: 12px;" />
+  </a>
 </div>
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
