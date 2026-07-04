@@ -1,232 +1,437 @@
-<!-- Premium GitHub Profile README | Designed for GitHub Overview Page -->
-<!-- Theme: Apple-inspired Minimal Dark & Orange Gradient -->
+<!-- ========================================================= -->
+<!-- Premium GitHub Profile README -->
+<!-- Byreddy Venkata Sandeep Reddy -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-  <!-- 1. PREMIUM HERO BANNER -->
-  <img src="./assets/hero-banner.svg" alt="Byreddy Venkata sandeep Reddy - Full Stack Engineer" width="100%" style="border-radius: 16px; margin-bottom: 24px;" />
+<img src="./assets/hero-banner.svg" width="100%" alt="Hero Banner"/>
 
-  <!-- 2. ANIMATED TYPING SUB-TITLE -->
-  <a href="https://byreddy-venkata-sandeep-reddy.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&height=50&lines=Full%20Stack%20Engineer;React%20%26%20TypeScript%20Specialist;Cloud%20Architecture%20Enthusiast;Open%20Source%20Contributor" alt="Typing Subtitle" />
-  </a>
+<br><br>
 
-  <!-- 3. PREMIUM SOCIAL BUTTONS -->
-  <div style="margin: 20px 0 35px 0;">
-    <a href="https://github.com/sandeepreddy2147/" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>&nbsp;
-    <a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>&nbsp;
-    <a href="https://www.linkedin.com/in/byreddy-venkata-sandeep-reddy/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>&nbsp;
-    <a href="mailto:b.v.sandeepreddy21@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>&nbsp;
-    <a href="https://x.com/reddy21_sandeep" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-    </a>&nbsp;
-    <a href="https://discord.gg/TRZXHJyNE" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>&nbsp;
-    <a href="https://www.instagram.com/sandeep_reddy_21?igsh=MWs1djBmdWs5ZGxwcw==" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </div>
+<a href="https://byreddy-venkata-sandeep-reddy.vercel.app">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;React+Developer;Firebase+Expert;Building+Scalable+SaaS+Applications;Open+Source+Contributor"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/sandeepreddy2147">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://byreddy-venkata-sandeep-reddy.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/byreddy-venkata-sandeep-reddy/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:b.v.sandeepreddy21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://x.com/reddy21_sandeep">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://www.instagram.com/sandeep_reddy_21">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
-<!-- BIO BRIEF -->
-<div align="left" style="max-width: 820px; margin: 0 auto 40px auto; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
-  <blockquote style="border-left: 4px solid #FF6B00; background: rgba(255, 107, 0, 0.03); padding: 15px 20px; border-radius: 0 12px 12px 0; margin: 0;">
-    <h4 style="margin: 0 0 6px 0; color: #FF6B00; font-size: 14px; letter-spacing: 1px; text-transform: uppercase;">Executive Summary</h4>
-    <p style="margin: 0; color: #F1F1F3; font-size: 15px; line-height: 1.6; font-weight: 500;">
-      I build production-ready SaaS platforms, AI-integrated applications, and open-source developer tools. Focused on engineering scalable web architectures with a strict commitment to performance and system reliability.
-    </p>
-  </blockquote>
-</div>
+---
 
-<hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
+# 👋 Hi, I'm Byreddy Venkata Sandeep Reddy
 
-<!-- 4. TECH STACK (Displaying using Skill Icons) -->
-<div align="center">
-  <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 20px; letter-spacing: -0.5px;">🛠️ Technosphere Core</h2>
-  <p style="color: #8F8F9F; font-size: 14px; margin-top: -15px; margin-bottom: 24px;">Systems, languages, databases, and continuous delivery models.</p>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,firebase,python,mysql,mongodb,git,docker,vercel,tailwind,html,css&perline=7" alt="Tech Stack" />
-  </a>
-</div>
+### Full Stack Engineer • SaaS Builder • Firebase Developer
 
-<hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
+I build production-ready SaaS products, AI-powered applications, scalable cloud solutions and beautiful user experiences.
 
-<!-- 5. GITHUB ANALYTICS -->
-<div align="center">
-  <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 24px; letter-spacing: -0.5px;">📊 Analytics &amp; Repository Diagnostics</h2>
-  
-  <!-- Grid alignment layout -->
-  <table width="100%" border="0" cellpadding="5" cellspacing="0">
-    <tr>
-      <td width="50%" align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=sandeepreddy2147/&show_icons=true&count_private=true&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Stats" width="100%" style="max-width: 400px; border-radius: 8px;" />
-      </td>
-      <td width="50%" align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepreddy2147/&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Streak" width="100%" style="max-width: 400px; border-radius: 8px;" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" valign="middle" style="padding-top: 15px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepreddy2147/&layout=compact&langs_count=8&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="Top Languages" width="100%" style="max-width: 400px; border-radius: 8px;" />
-      </td>
-      <td width="50%" align="center" valign="middle" style="padding-top: 15px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147/&theme=default" alt="Profile views and summary" width="100%" style="max-width: 400px; border-radius: 8px;" />
-      </td>
-    </tr>
-  </table>
+I enjoy building products that solve real business problems using modern technologies.
 
-  <!-- Live Indicators Line -->
-  <div style="margin-top: 25px; font-family: monospace; font-size: 13px; color: #7F7F8F;">
-    <span>👤 Followers: <b><img src="https://img.shields.io/github/followers/sandeepreddy2147/?label=%20&style=social" style="vertical-align: middle;" /></b></span> &nbsp;•&nbsp;
-    <span>⭐ Total Stars: <b><img src="https://img.shields.io/github/stars-of-user/sandeepreddy2147/?label=%20&style=social" style="vertical-align: middle;" /></b></span> &nbsp;•&nbsp;
-    <span>📦 Public Repositories: <b><img src="https://img.shields.io/github/directory-by-user-repo-count/sandeepreddy2147/?label=%20&style=social" style="vertical-align: middle;" /></b></span>
-  </div>
-</div>
+---
 
-<hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
+# 🚀 Tech Stack
 
-<!-- 6. FEATURED PROJECTS -->
-<div align="left">
-  <div align="center">
-    <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 8px; letter-spacing: -0.5px;">💼 Featured Systems &amp; SaaS Products</h2>
-    <p style="color: #8F8F9F; font-size: 14px; margin-top: 0; margin-bottom: 28px;">Production-ready platforms designed for velocity, performance, and impact.</p>
-  </div>
+<p align="center">
 
-  <table width="100%" border="0" cellpadding="8" cellspacing="0">
-  <tr>
-  
-      <td width="50%" valign="top">
-        <div align="left" style="border: 1px solid rgba(255,107,0,0.15); border-radius: 12px; padding: 20px; background: #0D0D11; height: 100%; box-shadow: 0 4px 20px rgba(0,0,0,0.35);">
-          <!-- Minimal header indicator -->
-          <div style="font-family: monospace; font-size: 11px; color: #FF6B00; font-weight: bold; margin-bottom: 8px; letter-spacing: 1px;">FEATURED SYSTEM</div>
-          <h3 style="color: #FFFFFF; font-size: 20px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800;">Hotbers</h3>
-          <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 72px; margin-bottom: 16px;">A complete, production-grade cloud SaaS built to help paying guest owners streamline customer onboarding, room assignments, auto-invoicing, bookings, payments, and live complaints management. Integrates complex dashboards for both owners and renters.</p>
-          <div style="margin-bottom: 18px;">
-            <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React 19</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Firebase Auth</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Cloud Firestore</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Cloud Functions</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Tailwind CSS</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Leaflet Maps API</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">AI Engine</span>
-          </div>
-          <div align="left">
-            
-            <a href="https://www.hotbers.in/" target="_blank" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
-            </a>
-          </div>
-        </div>
-      </td>
-    
-  
-      <td width="50%" valign="top">
-        <div align="left" style="border: 1px solid rgba(255,107,0,0.15); border-radius: 12px; padding: 20px; background: #0D0D11; height: 100%; box-shadow: 0 4px 20px rgba(0,0,0,0.35);">
-          <!-- Minimal header indicator -->
-          <div style="font-family: monospace; font-size: 11px; color: #FF6B00; font-weight: bold; margin-bottom: 8px; letter-spacing: 1px;">FEATURED SYSTEM</div>
-          <h3 style="color: #FFFFFF; font-size: 20px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800;">TVARIT</h3>
-          <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 72px; margin-bottom: 16px;">Tvarit is an AI-powered meal kit platform that recommends personalized recipes based on user preferences, dietary goals, allergies, and available ingredients. It provides perfectly portioned ingredient kits, guided cooking instructions, and a seamless online ordering experience.</p>
-          <div style="margin-bottom: 18px;">
-            <span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">React 19</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Firebase Auth</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Cloud Firestore</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Cloud Functions</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Node.js</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Tailwind CSS</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">Leaflet Maps API</span><span style="background: #1C1C24; color: #E4E4E7; border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; padding: 4px 10px; font-size: 11px; font-weight: 600; margin-right: 6px; display: inline-block; font-family: monospace; margin-bottom: 6px;">AI Engine</span>
-          </div>
-          <div align="left">
-            
-            <a href="https://github.com/sandeepreddy2147/tvarit" target="_blank" style="text-decoration: none; margin-right: 8px;">
-              <img src="https://img.shields.io/badge/Repository-0D0D11?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-            </a>
-            
-            <a href="https://tvarit-gamma.vercel.app/login" target="_blank" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
-            </a>
-          </div>
-        </div>
-      </td>
-    
-  </tr>
-  </table>
-</div>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,firebase,python,mysql,mongodb,tailwind,html,css,git,github,docker,vercel,vscode&perline=8"/>
 
-<hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
+</p>
 
-<!-- 7. ACHIEVEMENTS -->
-<div align="center">
-  <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 20px; letter-spacing: -0.5px;">🏆 Accolades &amp; Achievements</h2>
-  
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=sandeepreddy2147/&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%; border-radius: 8px; margin-bottom: 24px;" />
+---
 
-  <!-- Snake Grid Animation and Contribution graph reference -->
-  <div style="margin-top: 15px; border: 1px solid rgba(255,107,0,0.1); border-radius: 12px; padding: 20px; background: #0D0D11; max-width: 800px;">
-    <h4 style="color: #FFFFFF; margin: 0 0 10px 0; font-size: 14px; letter-spacing: 0.5px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700;">CONTRIBUTION GRID ACTIVITY MINE</h4>
-    <!-- This utilizes a live animated workflow to generate contribution grid snake -->
-    <img src="https://raw.githubusercontent.com/sandeepreddy2147//sandeepreddy2147//output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" style="border-radius: 6px;" onerror="this.src='https://raw.githubusercontent.com/sandeepreddy2147//sandeepreddy2147//main/assets/github-contribution-grid-snake.svg'; this.onerror=null;" />
-  </div>
-</div>
+# 📊 GitHub Analytics
 
-<hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
+<p align="center">
 
-<!-- 8. DEVELOPMENT WORKFLOW -->
-<div align="center">
-  <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 8px; letter-spacing: -0.5px;">🔄 Modern Development Blueprint</h2>
-  <p style="color: #8F8F9F; font-size: 14px; margin-top: 0; margin-bottom: 24px;">An continuous-delivery architecture designed to translate product vision into pixel-perfect scalable realities.</p>
-  
-  <img src="./assets/workflow.svg" alt="Byreddy Venkata sandeep Reddy Workflow Blueprint" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandeepreddy2147&show_icons=true&theme=default"/>
 
-<hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepreddy2147&theme=default"/>
 
-<!-- 9. QUOTE -->
-<div align="center">
-  <img src="./assets/quote.svg" alt="Philosophy" width="100%" style="max-width: 800px; border-radius: 12px;" />
-</div>
+</p>
 
-<hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
+<p align="center">
 
-<!-- 10. CONNECT / LOCATION -->
-<div align="center">
-  <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 24px; letter-spacing: -0.5px;">🤝 Open-Loop Communication</h2>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepreddy2147&layout=compact&theme=default"/>
 
-  <table width="100%" border="0" cellpadding="8" cellspacing="0" style="max-width: 600px;">
-    <tr>
-      <td width="50%" align="left">
-        <div style="background: #14141A; border: 1px solid rgba(255,107,0,0.1); border-radius: 8px; padding: 12px 18px;">
-          <span style="color: #FF6B00; font-weight: bold; font-size: 11px; font-family: monospace; letter-spacing: 0.5px; display: block; margin-bottom: 4px;">LOCATED IN</span>
-          <span style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold;">📍 Gudivada, Andhra Pradesh</span>
-        </div>
-      </td>
-      <td width="50%" align="left">
-        <div style="background: #14141A; border: 1px solid rgba(255,107,0,0.1); border-radius: 8px; padding: 12px 18px;">
-          <span style="color: #FF6B00; font-weight: bold; font-size: 11px; font-family: monospace; letter-spacing: 0.5px; display: block; margin-bottom: 4px;">DIRECT CONNECT</span>
-          <a href="mailto:b.v.sandeepreddy21@gmail.com" style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold; text-decoration: none;">📬 Send Electronic Mail</a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="left">
-        <div style="background: #14141A; border: 1px solid rgba(255,107,0,0.1); border-radius: 8px; padding: 12px 18px;">
-          <span style="color: #FF6B00; font-weight: bold; font-size: 11px; font-family: monospace; letter-spacing: 0.5px; display: block; margin-bottom: 4px;">PROFESSIONAL NETWORK</span>
-          <a href="https://www.linkedin.com/in/byreddy-venkata-sandeep-reddy/" target="_blank" style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold; text-decoration: none;">💼 LinkedIn Profile</a>
-        </div>
-      </td>
-      <td width="50%" align="left">
-        <div style="background: #14141A; border: 1px solid rgba(255,107,0,0.1); border-radius: 8px; padding: 12px 18px;">
-          <span style="color: #FF6B00; font-weight: bold; font-size: 11px; font-family: monospace; letter-spacing: 0.5px; display: block; margin-bottom: 4px;">INTERACTIVE HUBS</span>
-          <a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" target="_blank" style="color: #FFFFFF; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: bold; text-decoration: none;">🌐 Personal Portfolio</a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+</p>
 
-<hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
+---
 
-<!-- 11. FOOTER -->
-<div align="center" style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 12px; color: #5F5F6F; padding-bottom: 40px;">
-  <p>Made with ❤️ by <a href="https://byreddy-venkata-sandeep-reddy.vercel.app/" style="color: #FF6B00; text-decoration: none; font-weight: 600;">Byreddy Venkata sandeep Reddy</a></p>
-  <p style="font-size: 11px; margin-top: 5px; opacity: 0.6;">© 2026 • Apple-Inspired Premium Theme • Validated Responsive Pipeline</p>
-</div>
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sandeepreddy2147&theme=flat&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepreddy2147&theme=github"/>
+
+</p>
+
+---
+
+# 💼 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚀 HOTBERS
+
+**Production Ready PG Management SaaS**
+
+Complete cloud platform for PG owners and tenants with booking, payments, subscriptions, AI assistance and analytics.
+
+### ✨ Features
+
+- Multi Role Dashboard
+- Firebase Authentication
+- Cloud Firestore
+- Razorpay Payments
+- Push Notifications
+- AI Assistant
+- Google Maps Integration
+- Reviews & Ratings
+- Tenant Management
+- Owner Dashboard
+- Admin Panel
+- Coupons & Offers
+
+### 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css)
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
+
+<br>
+
+<a href="https://www.hotbers.in">
+<img src="https://img.shields.io/badge/🌐 Live Demo-FF6B00?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 TVARIT
+
+**AI Powered Meal Kit Platform**
+
+Personalized recipes, AI recommendations, nutrition tracking and online ordering.
+
+### ✨ Features
+
+- AI Recipe Recommendation
+- Ingredient Suggestions
+- Diet Planning
+- Smart Search
+- Secure Authentication
+- Cloud Database
+- Online Ordering
+- Meal Planner
+
+### 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+
+![AI](https://img.shields.io/badge/AI-Powered-orange?style=flat-square)
+
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css)
+
+<br>
+
+<a href="https://tvarit-gamma.vercel.app/login">
+<img src="https://img.shields.io/badge/🌐 Live Demo-FF6B00?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/sandeepreddy2147/tvarit">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚡ Current Focus
+
+- 🚀 Building **HOTBERS**
+- 🤖 AI Integration
+- ☁️ Firebase Architecture
+- 📱 Progressive Web Apps
+- 💳 Payment Systems
+- 📊 Performance Optimization
+- 🌍 Open Source Contributions
+
+---
+
+# 📚 Currently Learning
+
+- Advanced React
+- Cloud Functions
+- Docker
+- System Design
+- DevOps
+- Kubernetes
+- AI Agents
+- Microservices
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sandeepreddy2147&theme=flat&column=7&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sandeepreddy2147/sandeepreddy2147/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
+
+> **Note:** Make sure your GitHub Actions workflow generates
+>
+> `output/github-contribution-grid-snake-dark.svg`
+
+---
+
+# 📈 Profile Summary
+
+<p align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=github"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandeepreddy2147&theme=github"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandeepreddy2147&theme=github"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandeepreddy2147&theme=github"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepreddy2147&theme=github"/>
+
+</p>
+
+---
+
+# 🔄 Development Workflow
+
+<p align="center">
+
+<img src="./assets/workflow.svg" width="100%" alt="Development Workflow"/>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+<p align="center">
+
+<img src="./assets/quote.svg" width="100%" alt="Quote Banner"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:b.v.sandeepreddy21@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/byreddy-venkata-sandeep-reddy/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://byreddy-venkata-sandeep-reddy.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sandeepreddy2147">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📍 Location
+
+**Gudivada, Andhra Pradesh, India 🇮🇳**
+
+Open to:
+
+- 💼 Full-time Opportunities
+- 🚀 Freelance Projects
+- 🤝 Open Source Collaboration
+- 💡 Startup Partnerships
+
+---
+
+---
+
+# 🎯 Goals for 2026
+
+- 🚀 Grow **HOTBERS** into a nationwide SaaS platform
+- 🤖 Build AI-powered productivity tools
+- 🌍 Contribute to Open Source
+- 📱 Publish production-grade web applications
+- ☁️ Master Cloud Architecture
+- 🏆 Reach 1000+ GitHub Contributions
+- 💼 Work on impactful software products
+
+---
+
+# 💡 Fun Facts
+
+- 💻 I enjoy building scalable SaaS products
+- 🚀 Performance optimization is my favorite challenge
+- ☁️ Passionate about Firebase & Cloud
+- 🤖 Exploring AI integrations
+- 🌙 Late-night coding enthusiast
+- 📖 Always learning something new
+
+---
+
+# ☕ Support My Work
+
+<p align="center">
+
+If you like my projects, consider giving them a ⭐ on GitHub.
+
+⭐ It motivates me to build more open-source software.
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sandeepreddy2147&label=Profile%20Views&color=ff6b00&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📬 Contact
+
+<p align="center">
+
+📧 **Email**
+
+<b.v.sandeepreddy21@gmail.com>
+
+🌐 **Portfolio**
+
+https://byreddy-venkata-sandeep-reddy.vercel.app
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/byreddy-venkata-sandeep-reddy
+
+🐙 **GitHub**
+
+https://github.com/sandeepreddy2147
+
+</p>
+
+---
+
+# ❤ Thanks for Visiting
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=footer"/>
+
+</p>
+
+<p align="center">
+
+### ⭐ If you like my work, don't forget to Star my repositories!
+
+### 🚀 Building products that create real-world impact.
+
+</p>
+
+---
+
+<p align="center">
+
+Made with ❤️ by
+
+## **Byreddy Venkata Sandeep Reddy**
+
+**Full Stack Engineer • SaaS Builder • Firebase Developer**
+
+</p>
