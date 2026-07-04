@@ -155,5 +155,4 @@ style="max-width:400px;border-radius:8px;" />
 <!-- 11. FOOTER -->
 <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 12px; color: #5F5F6F; padding-bottom: 40px;">
   <p>Made with ❤️ by <a href="https://byreddy-venkata-sandeep-reddy.vercel.app" target="_blank" style="color: #FF6B00; text-decoration: none; font-weight: 600;">Byreddy Venkata Sandeep Reddy</a></p>
-  <p style="font-size: 11px; margin-top: 5px; opacity: 0.6;">© 2026 • Apple-Inspired Premium Theme • Validated Responsive Pipeline</p>
 </div>
