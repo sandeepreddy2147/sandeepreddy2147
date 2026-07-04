@@ -74,7 +74,7 @@
   <table width="100%" border="0" cellpadding="5" cellspacing="0">
     <tr>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=sandeepreddy2147&show_icons=true&count_private=true&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Stats" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img src="https://github-readme-stats-eight-gray.vercel.app/api?username=sandeepreddy2147&show_icons=true&count_private=true&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Stats" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepreddy2147&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Streak" width="100%" style="max-width: 400px; border-radius: 8px;" />
@@ -82,7 +82,7 @@
     </tr>
     <tr>
       <td width="50%" align="center" valign="middle" style="padding-top: 15px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepreddy2147&layout=compact&langs_count=8&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="Top Languages" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img src="https://github-readme-stats-eight-gray.vercel.app/api/top-langs/?username=sandeepreddy2147&layout=compact&langs_count=8&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="Top Languages" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle" style="padding-top: 15px;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=default" alt="Profile views and summary" width="100%" style="max-width: 400px; border-radius: 8px;" />
@@ -149,25 +149,29 @@
   
   <!-- Trophies -->
   <!-- 
-    📢 TROUBLESHOOTING GITHUB TROPHIES (IF YOU SEE 404 OR BROKEN TROPHIES):
-    - Trophies can sometimes return rate-limited responses from Vercel. 
-    - Solution: You can deploy your own instance of github-profile-trophy or use mirror domains.
+    📢 DYNAMIC GITHUB TROPHIES (OPTIONAL):
+    - To enable your achievements/trophies, remove the comment wrapper tags (<!-- and -->) around the <img /> block below.
+    - Note: This service is hosted by the open-source community and can occasionally experience rate-limits or downtime.
   -->
+  <!--
   <img src="https://github-profile-trophy.vercel.app/?username=sandeepreddy2147&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%; border-radius: 8px; margin-bottom: 24px;" />
+  -->
 
   <!-- Snake Grid Animation and Contribution graph reference -->
+  <!-- 
+    📢 DYNAMIC CONTRIBUTION SNAKE SETUP (OPTIONAL):
+    - To show your animated contribution snake, remove the comment wrapper tags (<!-- and -->) around the <div> block below.
+    - Setup instructions:
+      1. Create a file in your repository: .github/workflows/generate-snake.yml
+      2. Add the "Platane/snk" action to build the SVG on every commit or push to the main branch.
+      3. This action outputs the animated snake SVG into the "output" branch, making the image below render perfectly!
+  -->
+  <!--
   <div style="margin-top: 15px; border: 1px solid rgba(255,107,0,0.1); border-radius: 12px; padding: 20px; background: #0D0D11; max-width: 800px;">
     <h4 style="color: #FFFFFF; margin: 0 0 10px 0; font-size: 14px; letter-spacing: 0.5px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700;">CONTRIBUTION GRID ACTIVITY MINE</h4>
-    <!-- 
-      📢 DYNAMIC CONTRIBUTION SNAKE SETUP:
-      - This utilizes a live animated snake generated via a GitHub Actions workflow.
-      - 1. Create a file in your repository: .github/workflows/generate-snake.yml
-      - 2. Add the "Platane/snk" action to build the SVG on every commit or push to the main branch.
-      - 3. This action outputs the animated snake SVG into the "output" branch, which makes the image below work perfectly!
-      - Until you run the GitHub Action, this image might return a 404.
-    -->
-    <img src="https://raw.githubusercontent.com/sandeepreddy2147/sandeepreddy2147/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" style="border-radius: 6px;" onerror="this.src='https://raw.githubusercontent.com/sandeepreddy2147/sandeepreddy2147/main/assets/github-contribution-grid-snake.svg'; this.onerror=null;" />
+    <img src="https://raw.githubusercontent.com/sandeepreddy2147/sandeepreddy2147/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" style="border-radius: 6px;" />
   </div>
+  -->
 </div>
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
