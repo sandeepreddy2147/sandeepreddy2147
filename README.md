@@ -7,7 +7,7 @@
   <img src="./assets/hero-banner.svg" alt="Byreddy Venkata Sandeep Reddy - Full Stack Engineer • SaaS Builder • Firebase Developer" width="100%" style="border-radius: 16px; margin-bottom: 24px;" />
 
   <!-- 2. ANIMATED TYPING SUB-TITLE -->
-  <a href="https://byreddy-venkata-sandeep-reddy.vercel.app">
+  <a href="https://byreddy-venkata-sandeep-reddy.vercel.app" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&height=50&lines=Full%20Stack%20Engineer;React%20%26%20TypeScript%20Specialist;SaaS%20Builder%20%26%20Firebase%20Expert;Building%20Scalable%20SaaS%20Applications;Open%20Source%20Contributor" alt="Typing Subtitle" />
   </a>
 
@@ -35,7 +35,7 @@
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 20px; letter-spacing: -0.5px;">🛠️ Technosphere Core</h2>
   <p style="color: #8F8F9F; font-size: 14px; margin-top: -15px; margin-bottom: 24px;">Systems, languages, databases, and continuous delivery models.</p>
   
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,firebase,python,mysql,mongodb,tailwind,html,css,git,github,docker,vercel,vscode&perline=7" alt="Tech Stack" />
   </a>
 </div>
@@ -80,7 +80,7 @@
 <td width="50%" valign="top">
 <div align="center">
 <a href="https://www.hotbers.in" target="_blank">
-<img src="./assets/project-hotbers.svg" alt="HOTBERSd" width="100%" style="border-radius: 12px;" />
+<img src="./assets/project-hotbers.svg" alt="HOTBERS" width="100%" style="border-radius: 12px;" />
 </a>
 <div align="center" style="margin-top: 10px; margin-bottom: 15px;">
 <a href="https://www.hotbers.in" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge" alt="Demo" /></a>
@@ -105,33 +105,7 @@
 
 <!-- 7. ACHIEVEMENTS -->
 <div align="center">
-  <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 20px; letter-spacing: -0.5px;">🏆 Accolades &amp; Achievements</h2>
-  
-  <!-- Trophies -->
-  <!-- 
-    📢 DYNAMIC GITHUB TROPHIES (OPTIONAL):
-    - To enable your achievements/trophies, remove the comment wrapper tags around the <img /> block below.
-    - Note: This service is hosted by the open-source community and can occasionally experience rate-limits or downtime.
-  -->
-  <!--
-  <img src="https://github-profile-trophy.vercel.app/?username=sandeepreddy2147&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%; border-radius: 8px; margin-bottom: 24px;" />
-  -->
-
-  <!-- Snake Grid Animation and Contribution graph reference -->
-  <!-- 
-    📢 DYNAMIC CONTRIBUTION SNAKE SETUP (OPTIONAL):
-    - To show your animated contribution snake, remove the comment wrapper tags around the <div> block below.
-    - Setup instructions:
-      1. Create a file in your repository: .github/workflows/generate-snake.yml
-      2. Add the "Platane/snk" action to build the SVG on every commit or push to the main branch.
-      3. This action outputs the animated snake SVG into the "output" branch, making the image below render perfectly!
-  -->
-  <!--
-  <div style="margin-top: 15px; border: 1px solid rgba(255,107,0,0.1); border-radius: 12px; padding: 20px; background: #0D0D11; max-width: 800px;">
-    <h4 style="color: #FFFFFF; margin: 0 0 10px 0; font-size: 14px; letter-spacing: 0.5px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700;">CONTRIBUTION GRID ACTIVITY MINE</h4>
-    <img src="https://raw.githubusercontent.com/sandeepreddy2147/sandeepreddy2147/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" style="border-radius: 6px;" />
-  </div>
-  -->
+  <img src="./assets/achievements.svg" alt="Accolades &amp; Achievements" width="100%" style="border-radius: 18px; margin-bottom: 24px;" />
 </div>
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
@@ -157,7 +131,7 @@
 <div align="center">
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 24px; letter-spacing: -0.5px;">🤝 Open-Loop Communication</h2>
 
-  <a href="https://byreddy-venkata-sandeep-reddy.vercel.app">
+  <a href="https://byreddy-venkata-sandeep-reddy.vercel.app" target="_blank">
     <img src="./assets/contact-card.svg" alt="Open-Loop Communication" width="100%" style="max-width: 800px; border-radius: 12px; margin-bottom: 12px;" />
   </a>
 </div>
@@ -166,6 +140,6 @@
 
 <!-- 11. FOOTER -->
 <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 12px; color: #5F5F6F; padding-bottom: 40px;">
-  <p>Made with ❤️ by <a href="https://byreddy-venkata-sandeep-reddy.vercel.app" style="color: #FF6B00; text-decoration: none; font-weight: 600;">Byreddy Venkata Sandeep Reddy</a></p>
+  <p>Made with ❤️ by <a href="https://byreddy-venkata-sandeep-reddy.vercel.app" target="_blank" style="color: #FF6B00; text-decoration: none; font-weight: 600;">Byreddy Venkata Sandeep Reddy</a></p>
   <p style="font-size: 11px; margin-top: 5px; opacity: 0.6;">© 2026 • Apple-Inspired Premium Theme • Validated Responsive Pipeline</p>
 </div>
