@@ -4,7 +4,7 @@
 <div align="center">
 
   <!-- 1. PREMIUM HERO BANNER -->
-  <img src="assets/hero-banner-light.svg" alt="Byreddy Venkata Sandeep Reddy - Full Stack Engineer • SaaS Builder • Firebase Developer" width="100%" style="border-radius: 16px; margin-bottom: 24px;" />
+  <img src="./assets/hero-banner-light.svg" alt="Byreddy Venkata Sandeep Reddy - Full Stack Engineer • SaaS Builder • Firebase Developer" width="100%" style="border-radius: 16px; margin-bottom: 24px;" />
 
   <!-- 2. ANIMATED TYPING SUB-TITLE -->
   <a href="https://byreddy-venkata-sandeep-reddy.vercel.app" target="_blank">
@@ -57,7 +57,7 @@
   <table width="100%" border="0" cellpadding="5" cellspacing="0">
     <tr>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepreddy2147&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Streak" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img src="https://github-readme-stats-eight-gray.vercel.app/api?username=sandeepreddy2147&show_icons=true&count_private=true&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Stats" width="100%" style="max-width: 400px; border-radius: 8px;" />
       </td>
       <td width="50%" align="center" valign="middle">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=default" alt="Profile views and summary" width="100%" style="max-width: 400px; border-radius: 8px;" />
@@ -80,7 +80,7 @@
 <td width="50%" valign="top">
 <div align="center">
 <a href="https://www.hotbers.in" target="_blank">
-<img src="./assets/project-hotbers.svg" alt="HOTBERS" width="100%" style="border-radius: 12px;" />
+<img src="./assets/project-hotbers-light.svg" alt="HOTBERS" width="100%" style="border-radius: 12px;" />
 </a>
 <div align="center" style="margin-top: 10px; margin-bottom: 15px;">
 <a href="https://www.hotbers.in" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge" alt="Demo" /></a>
@@ -90,7 +90,7 @@
 <td width="50%" valign="top">
 <div align="center">
 <a href="https://tvarit-gamma.vercel.app/login" target="_blank">
-<img src="./assets/project-tvarit.svg" alt="TVARIT" width="100%" style="border-radius: 12px;" />
+<img src="./assets/project-tvarit-light.svg" alt="TVARIT" width="100%" style="border-radius: 12px;" />
 </a>
 <div align="center" style="margin-top: 10px; margin-bottom: 15px;">
 <a href="https://github.com/sandeepreddy2147/tvarit" target="_blank" style="text-decoration: none; margin-right: 8px;"><img src="https://img.shields.io/badge/Repository-1A1A24?style=for-the-badge" alt="GitHub" /></a><a href="https://tvarit-gamma.vercel.app/login" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge" alt="Demo" /></a>
@@ -105,7 +105,7 @@
 
 <!-- 7. ACHIEVEMENTS -->
 <div align="center">
-  <img src="./assets/achievements.svg" alt="Accolades &amp; Achievements" width="100%" style="border-radius: 18px; margin-bottom: 24px;" />
+  <img src="./assets/achievements-light.svg" alt="Accolades &amp; Achievements" width="100%" style="border-radius: 18px; margin-bottom: 24px;" />
 </div>
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
@@ -115,14 +115,14 @@
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 8px; letter-spacing: -0.5px;">🔄 Modern Development Blueprint</h2>
   <p style="color: #8F8F9F; font-size: 14px; margin-top: 0; margin-bottom: 24px;">An continuous-delivery architecture designed to translate product vision into pixel-perfect scalable realities.</p>
   
-  <img src="./assets/workflow.svg" alt="Byreddy Venkata Sandeep Reddy Workflow Blueprint" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
+  <img src="./assets/workflow-light.svg" alt="Byreddy Venkata Sandeep Reddy Workflow Blueprint" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
 </div>
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
 
 <!-- 9. QUOTE -->
 <div align="center">
-  <img src="./assets/quote.svg" alt="Philosophy" width="100%" style="max-width: 800px; border-radius: 12px;" />
+  <img src="./assets/quote-light.svg" alt="Philosophy" width="100%" style="max-width: 800px; border-radius: 12px;" />
 </div>
 
 <hr style="border: 0; border-top: 1px solid rgba(255, 107, 0, 0.15); margin: 40px 0;" />
@@ -132,7 +132,7 @@
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 24px; color: #FFFFFF; margin-bottom: 24px; letter-spacing: -0.5px;">🤝 Open-Loop Communication</h2>
 
   <a href="https://byreddy-venkata-sandeep-reddy.vercel.app" target="_blank">
-    <img src="./assets/contact-card.svg" alt="Open-Loop Communication" width="100%" style="max-width: 800px; border-radius: 12px; margin-bottom: 12px;" />
+    <img src="./assets/contact-card-light.svg" alt="Open-Loop Communication" width="100%" style="max-width: 800px; border-radius: 12px; margin-bottom: 12px;" />
   </a>
 </div>
 
