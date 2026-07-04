@@ -83,7 +83,7 @@
 <img src="./assets/project-project1.svg" alt="Hotbers - PG Management SaaS Platform" width="504" style="border-radius: 14px; margin-bottom: 16px;" />
 </a>
 <div align="center" style="margin-top: 16px; margin-bottom: 20px;">
-<a href="#" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
+<a href="https://www.hotbers.in/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logoColor=white" alt="Demo" /></a>
 </div>
 </div>
 </td>
