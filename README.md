@@ -57,7 +57,9 @@
   <table width="100%" border="0" cellpadding="5" cellspacing="0">
     <tr>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-readme-stats-eight-gray.vercel.app/api?username=sandeepreddy2147&show_icons=true&count_private=true&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7" alt="GitHub Stats" width="100%" style="max-width: 400px; border-radius: 8px;" />
+        <img
+src="https://github-readme-stats.vercel.app/api?username=sandeepreddy2147&show_icons=true&count_private=true&theme=default&icon_color=FF6B00&text_color=333333&bg_color=ffffff&border_color=E4E4E7"
+width="100%" />
       </td>
       <td width="50%" align="center" valign="middle">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepreddy2147&theme=default" alt="Profile views and summary" width="100%" style="max-width: 400px; border-radius: 8px;" />
