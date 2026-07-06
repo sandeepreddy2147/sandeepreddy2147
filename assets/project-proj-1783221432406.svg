@@ -34,19 +34,19 @@
   <!-- Description -->
   <g transform="translate(48, 152)">
     
-      <text x="0" y="0" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill-opacity="0.88">GitHub-README-Blueprint-Designer is a React and TypeScript-based web</text>
+      <text x="0" y="0" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill-opacity="0.9">GitHub-README-Blueprint-Designer is a React and TypeScript-based web</text>
     
-      <text x="0" y="30" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill-opacity="0.88">application for designing professional GitHub profile READMEs through an</text>
+      <text x="0" y="30" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill-opacity="0.9">application for designing professional GitHub profile READMEs through an</text>
     
-      <text x="0" y="60" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill-opacity="0.88">interactive visual editor. It features live Markdown preview, modular</text>
+      <text x="0" y="60" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill-opacity="0.9">interactive visual editor. It features live Markdown preview, modular</text>
     
-      <text x="0" y="90" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill-opacity="0.88">component architecture, responsive layouts, GitHub statistics integration,</text>
+      <text x="0" y="90" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill-opacity="0.9">component architecture, responsive layouts, GitHub statistics</text>
     
-      <text x="0" y="120" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill-opacity="0.88">project showcase sections, and automated Markdown generation, enabling</text>
+      <text x="0" y="120" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill-opacity="0.9">integration, project showcase sections, and automated Markdown</text>
     
-      <text x="0" y="150" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill-opacity="0.88">developers to build polished GitHub profiles efficiently without manual</text>
+      <text x="0" y="150" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill-opacity="0.9">generation, enabling developers to build polished GitHub profiles</text>
     
-      <text x="0" y="180" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill-opacity="0.88">Markdown editing.</text>
+      <text x="0" y="180" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill-opacity="0.9">efficiently without manual Markdown editing.</text>
     
   </g>
 

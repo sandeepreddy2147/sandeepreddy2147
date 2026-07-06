@@ -34,13 +34,13 @@
   <!-- Description -->
   <g transform="translate(48, 152)">
     
-      <text x="0" y="0" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill-opacity="0.88">Tvarit is an AI-powered meal kit platform that recommends personalized</text>
+      <text x="0" y="0" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill-opacity="0.9">Tvarit is an AI-powered meal kit platform that recommends personalized</text>
     
-      <text x="0" y="30" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill-opacity="0.88">recipes based on user preferences, dietary goals, allergies, and available</text>
+      <text x="0" y="30" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill-opacity="0.9">recipes based on user preferences, dietary goals, allergies, and</text>
     
-      <text x="0" y="60" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill-opacity="0.88">ingredients. It provides perfectly portioned ingredient kits, guided</text>
+      <text x="0" y="60" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill-opacity="0.9">available ingredients. It provides perfectly portioned ingredient kits,</text>
     
-      <text x="0" y="90" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill-opacity="0.88">cooking instructions, and a seamless online ordering experience.</text>
+      <text x="0" y="90" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill-opacity="0.9">guided cooking instructions, and a seamless online ordering experience.</text>
     
   </g>
 

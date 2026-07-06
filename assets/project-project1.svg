@@ -34,13 +34,13 @@
   <!-- Description -->
   <g transform="translate(48, 152)">
     
-      <text x="0" y="0" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill-opacity="0.88">A complete, production-grade cloud SaaS built to help paying guest owners</text>
+      <text x="0" y="0" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill-opacity="0.9">A complete, production-grade cloud SaaS built to help paying guest</text>
     
-      <text x="0" y="30" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill-opacity="0.88">streamline customer onboarding, room assignments, auto-invoicing, bookings,</text>
+      <text x="0" y="30" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill-opacity="0.9">owners streamline customer onboarding, room assignments, auto-invoicing,</text>
     
-      <text x="0" y="60" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill-opacity="0.88">payments, and live complaints management. Integrates complex dashboards for</text>
+      <text x="0" y="60" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill-opacity="0.9">bookings, payments, and live complaints management. Integrates complex</text>
     
-      <text x="0" y="90" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill-opacity="0.88">both owners and renters.</text>
+      <text x="0" y="90" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill-opacity="0.9">dashboards for both owners and renters.</text>
     
   </g>
 
